@@ -26,11 +26,8 @@ Voici les technologies que j'étudie et que je mets en pratique dans mes projets
 
 ### 📈 Ma progression
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArnaudBena&theme=radical" alt="Profile Details" />
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArnaudBena&theme=radical" alt="Repos per Language" />
-</div>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArnaudBena&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArnaudBena&theme=radical)
 
 <br/>
 
