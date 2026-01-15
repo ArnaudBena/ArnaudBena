@@ -1,49 +1,36 @@
 # 👋 Salut, moi c’est Arnaud
 
-Je suis en **reconversion professionnelle vers le développement logiciel**, après une dizaine d’années dans le commerce.
+Après 10 ans d'expérience dans le commerce, j'ai opéré un virage complet pour me consacrer au développement logiciel.
 
-Aujourd’hui, je me forme au métier de **Concepteur Développeur d’Applications (Java)** à Metz Numeric School, avec l’objectif de devenir **développeur Java / Fullstack** à moyen terme.
+Je suis actuellement en formation **Concepteur Développeur d’Applications** (CDA) à Metz Numeric School. Mon approche est simple : je préfère comprendre le "pourquoi" en profondeur plutôt que d'empiler des technos sans bases solides.
 
----
-
-## 🌱 Ce que je fais ici
-
-Ce GitHub reflète **mon apprentissage réel**, jour après jour :
-- exercices
-- mini-projets
-- expérimentations
-- parfois des erreurs (et surtout ce que j’en apprends)
-
-Je préfère comprendre **pourquoi** ça marche plutôt que d’aller vite.
+* 🔭 **Focus actuel** : L'apprentissage intensif de **Java** et de la **POO**.
+* 🌱 **En cours d'acquisition** : L'écosystème **Spring Boot** et le front avec **Angular**.
+* 🎯 **Objectif** : Devenir développeur Fullstack (Java/Angular) au Luxembourg ou en Moselle.
 
 ---
 
-## 🛠️ Ce que je travaille actuellement
+### 🛠️ Ma Stack Technique
 
-- Java (programmation orientée objet)
-- Logique et bases de l’algorithmique
-- HTML / CSS
-- JavaScript (fondamentaux)
-- Git & GitHub
+Voici les technologies que j'étudie et que je mets en pratique dans mes projets :
 
----
-
-## 🧠 Ma façon d’apprendre
-
-- progresser régulièrement, même lentement
-- consolider les bases avant d’empiler les technos
-- écrire du code lisible et propre
-- accepter de ne pas tout savoir (encore)
+| Domaine | Technologies |
+| :--- | :--- |
+| **Langages** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) |
+| **Frameworks** | ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) |
+| **Web & Style** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) |
+| **Data & DevOps** | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) |
+| **Outils** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) |
 
 ---
 
-## 🚀 Et la suite
+### 📈 Ma progression
 
-- Monter en compétence sur l’écosystème Java
-- Découvrir et pratiquer Spring
-- Aller vers du **Fullstack**
-- Intégrer une équipe technique, idéalement en Moselle ou au Luxembourg
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArnaudBena&show_icons=true&theme=tokyonight&hide_border=true&locale=fr" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnaudBena&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Langs" width="42%" />
+</div>
 
----
+<br/>
 
-Merci d’être passé 👋  
+> *Note : Étant en pleine montée en compétences sur Java, mes statistiques GitHub vont progressivement évoluer pour refléter ce nouveau langage principal !*
