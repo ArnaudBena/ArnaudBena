@@ -29,7 +29,6 @@ Voici les technologies que j'étudie et que je mets en pratique dans mes projets
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArnaudBena&theme=radical)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArnaudBena&theme=radical)
 
-<br/>
 
 > *Note : Étant en pleine montée en compétences sur Java, mes statistiques GitHub vont progressivement évoluer pour refléter ce nouveau langage principal !*
 
