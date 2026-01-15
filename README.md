@@ -26,11 +26,18 @@ Voici les technologies que j'étudie et que je mets en pratique dans mes projets
 
 ### 📈 Ma progression
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArnaudBena&show_icons=true&theme=tokyonight&hide_border=true&locale=fr" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnaudBena&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Langs" width="42%" />
-</div>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArnaudBena&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArnaudBena&theme=radical)
 
 <br/>
 
 > *Note : Étant en pleine montée en compétences sur Java, mes statistiques GitHub vont progressivement évoluer pour refléter ce nouveau langage principal !*
+
+---
+
+<div align="center">
+  Connectons-nous !<br>
+  <a href="https://www.linkedin.com/in/arnaud-benacquista/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
